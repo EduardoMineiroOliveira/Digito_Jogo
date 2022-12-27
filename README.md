@@ -9,6 +9,7 @@ em versão 1.0 Alpha
 Desenvolvido na Unity version Free
 
 Site: http://digitogame.blogspot.com/
+Download do jogo completo: https://drive.google.com/file/d/1PfpDtpGm5W4Z3MeHPaH-cWwCzexrYH8W/view?usp=sharing/
 
 
 ========================================================================================================================
